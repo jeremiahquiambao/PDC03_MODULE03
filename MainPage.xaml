@@ -21,6 +21,7 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+        <Label/>
     </StackLayout>
 
 </ContentPage>
